@@ -1,0 +1,64 @@
+
+html{
+    background-image: url(https://www.yenislayt.com/upload/11b7161d8e.jpg);
+}
+
+h1, h2,h3,p{
+	color: #4c9599;
+}
+ 
+h1{
+    border-bottom: #4c9599;
+}
+
+table, td,th{
+	border-collapse: collapse;
+	padding: 5px;
+	font-size: 18px;
+}
+
+th{
+	background-color: #a1ccce;
+	color: #000000;
+	padding: 7px;
+}
+
+
+
+input[type=submit]{
+	font-family: 'Trebuchet MS', sans-serif;
+    font-size: 16px;	
+    border-radius: 2px;
+   
+}
+
+
+.error{
+	color: darkred;
+}
+
+a{
+    color:darkblue;
+}
+
+.myDiv{
+   
+    border:solid 5px;
+    border-color: darkgray;
+    padding-top: 50px;
+  padding-right: 80px;
+  padding-bottom: 65px;
+  padding-left: 80px;
+}
+.outerDiv{
+    position: absolute;
+    left:450px;
+    top:150px;
+    border:solid 5px;
+    border-color: darkgray;
+    background-color: whitesmoke;
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 65px;
+    padding-left: 80px;
+}
